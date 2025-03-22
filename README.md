@@ -1,13 +1,66 @@
-# React + Vite
+# 🌤 Aplicación de Clima
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación web desarrollada en **React.js** que permite obtener el clima actual de cualquier ciudad consultando la API de OpenWeatherMap.
 
-Currently, two official plugins are available:
+## 🚀 Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Búsqueda por ciudad**
+- **Datos precisos**: Temperatura, humedad y descripción del clima
+- **Interfaz simple y minimalista**
+- **Mensajes de error amigables** si la ciudad no es encontrada
 
-## Expanding the ESLint configuration
+## 🛠 Tecnologías utilizadas
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# app-consulta-clima-react
+- React.js
+- OpenWeatherMap API
+- CSS para estilos
+
+## 📦 Instalación
+
+1. Clona este repositorio:
+
+   ```bash
+   git clone https://github.com/tu-usuario/nombre-del-repo.git
+   ```
+
+2. Accede al directorio del proyecto:
+
+   ```bash
+   cd nombre-del-repo
+   ```
+
+3. Instala las dependencias:
+
+   ```bash
+   npm install
+   ```
+
+## 🔑 Obtener una API Key
+
+Este proyecto usa la API de OpenWeatherMap. Para obtener una clave:
+
+1. Regístrate en [OpenWeatherMap](https://openweathermap.org/)
+2. Obtén tu **API Key** desde el panel de usuario
+3. Reemplaza la constante `API_KEY` en `WeatherApp.js` con tu clave
+
+## ▶️ Uso
+
+Para iniciar la aplicación en modo desarrollo:
+
+```bash
+npm start
+```
+
+Luego, abre `http://localhost:3000` en tu navegador.
+
+## 📸 Captura de Pantalla
+
+![Preview de la app](https://via.placeholder.com/600x300)
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente.
+
+## ✨ Autor
+
+Creado por **[Tu Nombre]** - [LinkedIn](https://www.linkedin.com/in/tu-perfil)
