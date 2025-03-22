@@ -60,7 +60,3 @@ Luego, abre `http://localhost:3000` en tu navegador.
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente.
-
-## ✨ Autor
-
-Creado por **[Tu Nombre]** - [LinkedIn](https://www.linkedin.com/in/tu-perfil)
