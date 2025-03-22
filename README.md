@@ -48,10 +48,10 @@ Este proyecto usa la API de OpenWeatherMap. Para obtener una clave:
 Para iniciar la aplicación en modo desarrollo:
 
 ```bash
-npm start
+npm run dev
 ```
 
-Luego, abre `http://localhost:3000` en tu navegador.
+Luego, abre `http://localhost:5173` en tu navegador.
 
 ## 📸 Captura de Pantalla
 
