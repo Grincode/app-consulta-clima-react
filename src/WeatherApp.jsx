@@ -6,7 +6,7 @@ export const WeatherApp = () => {
   const [weatherData, setWeatherData] = useState(null);
 
   const urlBase = "https://api.openweathermap.org/data/2.5/weather";
-  const APY_KEY = "YOUR_API_KEY";
+  const API_KEY = "YOUR API KEY";
   const difKelvin = 273.15;
 
   const fetchWeatherData = async () => {
@@ -66,4 +66,3 @@ export const WeatherApp = () => {
     </div>
   );
 };
-

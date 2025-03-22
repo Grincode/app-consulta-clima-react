@@ -15,26 +15,6 @@ Este proyecto es una aplicación web desarrollada en **React.js** que permite ob
 - OpenWeatherMap API
 - CSS para estilos
 
-## 📦 Instalación
-
-1. Clona este repositorio:
-
-   ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repo.git
-   ```
-
-2. Accede al directorio del proyecto:
-
-   ```bash
-   cd nombre-del-repo
-   ```
-
-3. Instala las dependencias:
-
-   ```bash
-   npm install
-   ```
-
 ## 🔑 Obtener una API Key
 
 Este proyecto usa la API de OpenWeatherMap. Para obtener una clave:
@@ -43,19 +23,9 @@ Este proyecto usa la API de OpenWeatherMap. Para obtener una clave:
 2. Obtén tu **API Key** desde el panel de usuario
 3. Reemplaza la constante `API_KEY` en `WeatherApp.js` con tu clave
 
-## ▶️ Uso
-
-Para iniciar la aplicación en modo desarrollo:
-
-```bash
-npm run dev
-```
-
-Luego, abre `http://localhost:5173` en tu navegador.
-
 ## 📸 Captura de Pantalla
 
-![Preview de la app](https://via.placeholder.com/600x300)
+[![Captura-desde-2025-03-22-15-42-23.png](https://i.postimg.cc/GpGL98fy/Captura-desde-2025-03-22-15-42-23.png)](https://postimg.cc/QBNGyth8)
 
 ## 📄 Licencia
 
